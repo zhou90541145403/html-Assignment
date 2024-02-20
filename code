@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Zhou</title>
+</head>
+<body>
+    <header><h3>About me</h3></header>
+    <main>
+        <article>
+            <p>As a professional dancer, I embrace the rigor and grace of movement, dedicating myself to the art of expression through dance. My passion for the stage mirrors my commitment to excellence.</p> 
+            <p>Equally, as an avid angler, I find solace and thrill in the quiet dance between fish and fisherman. Teaching others, I imbue them with resilience and optimism, reflecting my approach to both work and life.</p>
+
+            <h4>"Life, like dance, requires grace and grit; in teaching as in fishing, patience and joy prevail."- Zhou</h4>
+        </article>
+    </main>
+    <br></br>
+    <footer>
+        <p>All  right reserved.</p>
+    </footer>
+    
+</body>
+</html>
